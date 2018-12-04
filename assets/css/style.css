@@ -1,0 +1,76 @@
+ body {
+     background-color: rgb(190, 193, 204);
+ }
+h1 {
+    text-align: center;
+    background-color: blueviolet;
+    color: white;
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 50px;
+    padding: 25px;
+}
+
+p  {
+    font-size: 15px;
+    color: white;
+}
+
+.crystal-image  {
+    height: 200px;
+    width: 200px;
+    border: solid;
+    color:blueviolet;
+    
+}
+
+.crystal-image:hover {
+    background-color: lightgray;
+   
+}
+
+ #gems:hover {
+    background-color: darkgrey;
+    
+} 
+#gems {
+    margin-left: 300px;
+    margin-right: 300px;
+    text-align: center;
+}
+
+#current-number {
+    background-color: rgb(56, 43, 241);
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 80px;
+    padding: 30px;
+    text-align: center;
+    font-size: 40px;
+    color: white;
+}
+
+#wins-losses {
+    background-color: rgba(83, 137, 176, 0.952);
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 50px;
+    padding: 25px;
+    text-align: center;
+}
+
+#score {
+    background-color: rgb(47, 47, 201);
+    margin-left: 300px;
+    margin-right: 300px;
+    height: 20px;
+    padding: px;
+    color: white;
+    text-align: center;
+}
+
+#instructions {
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: lightslategray;
+}
